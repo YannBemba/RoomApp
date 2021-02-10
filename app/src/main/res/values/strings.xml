@@ -8,4 +8,7 @@
     <string name="prenom">Prenom</string>
     <string name="age">Age</string>
     <string name="ajouter">Ajouter</string>
+    <string name="yann">Yann</string>
+    <string name="bemba">Bemba</string>
+    <string name="ageUser">19</string>
 </resources>
