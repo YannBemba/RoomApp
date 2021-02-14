@@ -11,10 +11,9 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import com.example.roomapp.R
-import com.example.roomapp.data.User
-import com.example.roomapp.data.UserViewModel
+import com.example.roomapp.model.User
+import com.example.roomapp.viewmodel.UserViewModel
 import com.example.roomapp.databinding.FragmentAddBinding
-
 
 class AddFragment : Fragment() {
 
